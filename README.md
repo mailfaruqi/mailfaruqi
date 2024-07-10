@@ -1,4 +1,9 @@
-## Hi there 👋
+- 🌐 Hi, I’m @mailfaruqi
+- 📊 I’m a GIS developer and spatial analyst passionate about using geodata analysis and visualization to drive sustainable and equitable development.
+- 🌱 I’m currently learning TypeScript, TypeScriptX, Prisma, MySQL, and NextJS to enhance my full-stack development skills.
+- ⛸️ Outside of work, I enjoy adult figure skating, which helps me balance work with the joy and discipline of skating.
+- 🤝 I’m looking to collaborate on projects related to geodata analysis, visualization, and map creation.
+- 📧 Reach me at ismailfaruqi7@gmail.com
 
 <!--
 **mailfaruqi/mailfaruqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
