@@ -1,7 +1,7 @@
 - 🌐 Hi, I’m @mailfaruqi
 - 📊 I’m a GIS developer and spatial analyst passionate about using earth observation data to drive sustainable and equitable development.
-- 🌱 I’m currently learning TypeScript, TypeScriptX, Prisma, MySQL, and NextJS to enhance my full-stack development skills.
-- ⛸️ Outside of work, I enjoy figure skating, which helps me balance work with the joy and discipline of skating.
+- 🌱 I’m currently learning full-stack development.
+- ⛸️ Outside of work, I enjoy figure skating
 - 🤝 I’m looking to collaborate on projects related to geodata analysis, visualization, and map creation.
 - 📧 Reach me at ismailfaruqi7@gmail.com
 
